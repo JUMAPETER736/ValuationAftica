@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "11030282327",
+    "project_id": "valuationafirca",
+    "storage_bucket": "valuationafirca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11030282327:android:5769c4df1726f252b06312",
+        "android_client_info": {
+          "package_name": "com.valuation_africa2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDanrkvXyG060yoJTxLNSCzlmUiN4mag1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
